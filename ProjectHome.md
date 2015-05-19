@@ -1,0 +1,1 @@
+**We moved to `GitHub`! Please access to https://github.com/limcheekin/jquery-validation-ui for latest source codes of the project and http://limcheekin.github.com/jquery-validation-ui for latest documentation.**
